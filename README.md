@@ -53,7 +53,7 @@ The C++ Domain is further Divided into the following sub-domains.
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
 | [Vector-Sort](https://www.hackerrank.com/challenges/vector-sort) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](stl/vector_sort.cpp) |
-| [Vector-Erase](https://www.hackerrank.com/challenges/vector-erase) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](stl/) |
+| [Vector-Erase](https://www.hackerrank.com/challenges/vector-erase) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](stl/vector_erase.cpp) |
 | [Lower Bound-STL](https://www.hackerrank.com/challenges/cpp-lower-bound) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](stl/) |
 | [Sets-STL](https://www.hackerrank.com/challenges/cpp-sets) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](stl/) |
 | [Maps-STL](https://www.hackerrank.com/challenges/cpp-maps) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](stl/) |
