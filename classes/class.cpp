@@ -49,8 +49,3 @@ public:
         return ::to_string(age) + "," + first_name + ',' + last_name + "," + ::to_string(standard);
     }
 };
-
-int main() {
-    int num = 10;
-    cout << ::to_string(num) + "hello";
-}
