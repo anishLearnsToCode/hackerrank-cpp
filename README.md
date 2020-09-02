@@ -43,7 +43,7 @@ The C++ Domain is further Divided into the following sub-domains.
 | [Class](https://www.hackerrank.com/challenges/c-tutorial-class) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](classes/class.cpp) |
 | [Classes and Objects](https://www.hackerrank.com/challenges/classes-objects) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](classes/classes_and_objects.cpp) |
 | [Box It!](https://www.hackerrank.com/challenges/box-it) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](classes/box_it.cpp) |
-| [Inherited Code](https://www.hackerrank.com/challenges/inherited-code) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
+| [Inherited Code](https://www.hackerrank.com/challenges/inherited-code) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](classes/inherited_code.cpp) |
 | [Exceptional Server](https://www.hackerrank.com/challenges/exceptional-server) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
 | [Virtual Functions](https://www.hackerrank.com/challenges/virtual-functions) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
 | [Abstract Classes - Polymorphism](https://www.hackerrank.com/challenges/abstract-classes-polymorphism) | Hard | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
