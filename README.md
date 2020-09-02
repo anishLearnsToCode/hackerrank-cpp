@@ -33,7 +33,7 @@ The C++ Domain is further Divided into the following sub-domains.
 |---------|------------|----------|
 | [Attribute Parser](https://www.hackerrank.com/challenges/attribute-parser) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](strings/attribute_parser.cpp)
 | [StringStream](https://www.hackerrank.com/challenges/c-tutorial-stringstream) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](strings/string_stream.cpp)
-| [Strings](https://www.hackerrank.com/challenges/c-tutorial-strings) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]()
+| [Strings](https://www.hackerrank.com/challenges/c-tutorial-strings) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](strings/strings.cpp)
 
 ### Classes ![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/8-1abc9c.svg)
 
