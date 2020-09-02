@@ -21,7 +21,7 @@ The C++ Domain is further Divided into the following sub-domains.
 | [Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](introduction/basic_data_types.cpp) |
 | [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](introduction/conditional_statements.cpp) |
 | [For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](introduction/for_loop.cpp) |
-| [Functions](https://www.hackerrank.com/challenges/c-tutorial-functions) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
+| [Functions](https://www.hackerrank.com/challenges/c-tutorial-functions) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](introduction/functions.cpp) |
 | [Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
 | [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
 | [Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
