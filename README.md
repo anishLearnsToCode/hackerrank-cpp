@@ -8,16 +8,6 @@
 This repository contains solutions to the [C++ domain](https://www.hackerrank.com/domains/cpp) 
 part of HackerRank. My HackerRank profile can be viewed [here](https://www.hackerrank.com/anishviewer).
 
-Solutions to other domains on HackerRank that can be viewed at:
-
-| Domain | Solutions Repository Link |
-|--------|---------------------------|
-| [Python](https://www.hackerrank.com/domains/python) | [Solutions Repository](https://github.com/anishLearnsToCode/hackerrank-python) |
-| [Algorithms](https://www.hackerrank.com/domains/algorithms) | [Solutions Repository](https://github.com/anishLearnsToCode/hackerrank-algorithms) |
-| [Data Structures](https://www.hackerrank.com/domains/data-structures) | [Solutions Repository](https://github.com/anishLearnsToCode/hackerrank-data-structures) |
-| [Java](https://www.hackerrank.com/domains/java) | [Solutions Repository](https://github.com/anishLearnsToCode/hackerrank-java) |
-| [Interview Preparation Kit](https://www.hackerrank.com/interview) | [Solutions Repository](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit) |
-
 The C++ Domain is further Divided into the following sub-domains. 
 
 ## Sub Domains & Problems (+Solutions) in the C++ Domain
@@ -26,10 +16,10 @@ The C++ Domain is further Divided into the following sub-domains.
 
 | Problem | Difficulty | Solution |
 |---------|:----------:|:--------:|
-| [Say "Hello World" with C++](https://www.hackerrank.com/challenges/cpp-hello-world) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
-| [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
-| [Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
-| [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
+| [Say "Hello World" with C++](https://www.hackerrank.com/challenges/cpp-hello-world) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](introduction/say_hello_world_with_cpp.cpp) |
+| [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](introduction/input_and_output.cpp) |
+| [Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](introduction/basic_data_types.cpp) |
+| [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](introduction/conditional_statements.cpp) |
 | [For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
 | [Functions](https://www.hackerrank.com/challenges/c-tutorial-functions) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
 | [Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
