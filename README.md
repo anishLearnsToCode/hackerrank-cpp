@@ -1,7 +1,7 @@
 # Hackerrank C++
 
 ![made-with-cpp](https://img.shields.io/badge/Made%20with-C++-1f425f.svg)
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-9/44-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-12/44-1abc9c.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 [![cp](https://img.shields.io/badge/also%20see-competitve%20programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 
@@ -27,7 +27,7 @@ The C++ Domain is further Divided into the following sub-domains.
 | [Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](introduction/variable_size_arrays.cpp) |
 
 
-### Strings ![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/3-1abc9c.svg)
+### Strings ![problems-solved](https://img.shields.io/badge/Problems%20Solved-3/3-1abc9c.svg)
 
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
@@ -39,7 +39,7 @@ The C++ Domain is further Divided into the following sub-domains.
 
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
-| [Structs](https://www.hackerrank.com/challenges/c-tutorial-struct) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
+| [Structs](https://www.hackerrank.com/challenges/c-tutorial-struct) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](classes/structs.cpp) |
 | [Class](https://www.hackerrank.com/challenges/c-tutorial-class) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
 | [Classes and Objects](https://www.hackerrank.com/challenges/classes-objects) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
 | [Box It!](https://www.hackerrank.com/challenges/box-it) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
