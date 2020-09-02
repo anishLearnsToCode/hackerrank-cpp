@@ -1,4 +1,4 @@
-#include "iostream"
+#include<bits/stdc++.h>
 
 using namespace std;
 
@@ -7,6 +7,7 @@ private:
     int l;
     int b;
     int h;
+public:
 
     Box() {
         l = 0;
@@ -38,7 +39,7 @@ private:
         return h;
     }
 
-    long long getVolume() const {
+    long long CalculateVolume() const {
         return ((long long) l) * b * h;
     }
 
@@ -56,7 +57,3 @@ private:
         return output;
     }
 };
-
-int main() {
-    return 0;
-}
