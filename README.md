@@ -1,7 +1,7 @@
 # Hackerrank C++
 
 ![made-with-cpp](https://img.shields.io/badge/Made%20with-C++-1f425f.svg)
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-20/44-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-27/44-1abc9c.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 [![cp](https://img.shields.io/badge/also%20see-competitve%20programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 
@@ -48,7 +48,7 @@ The C++ Domain is further Divided into the following sub-domains.
 | [Virtual Functions](https://www.hackerrank.com/challenges/virtual-functions) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](classes/virtual_functions.cpp) |
 | [Abstract Classes - Polymorphism](https://www.hackerrank.com/challenges/abstract-classes-polymorphism) | Hard | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](classes/abstract_classes_polymorphism.cpp) |
 
-### STL ![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/7-1abc9c.svg)
+### STL ![problems-solved](https://img.shields.io/badge/Problems%20Solved-7/7-1abc9c.svg)
 
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
@@ -58,7 +58,7 @@ The C++ Domain is further Divided into the following sub-domains.
 | [Sets-STL](https://www.hackerrank.com/challenges/cpp-sets) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](stl/set_stl.cpp) |
 | [Maps-STL](https://www.hackerrank.com/challenges/cpp-maps) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](stl/maps_stl.cpp) |
 | [Print Pretty](https://www.hackerrank.com/challenges/prettyprint) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](stl/print_pretty.cpp) |
-| [Deque-STL](https://www.hackerrank.com/challenges/deque-stl) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](stl/) |
+| [Deque-STL](https://www.hackerrank.com/challenges/deque-stl) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](stl/dequeue_stl.cpp) |
 
 ### Inheritance ![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/5-1abc9c.svg)
 
