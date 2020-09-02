@@ -46,7 +46,7 @@ The C++ Domain is further Divided into the following sub-domains.
 | [Inherited Code](https://www.hackerrank.com/challenges/inherited-code) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](classes/inherited_code.cpp) |
 | [Exceptional Server](https://www.hackerrank.com/challenges/exceptional-server) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](classes/exceptional_server.cpp) |
 | [Virtual Functions](https://www.hackerrank.com/challenges/virtual-functions) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](classes/virtual_functions.cpp) |
-| [Abstract Classes - Polymorphism](https://www.hackerrank.com/challenges/abstract-classes-polymorphism) | Hard | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](classes/) |
+| [Abstract Classes - Polymorphism](https://www.hackerrank.com/challenges/abstract-classes-polymorphism) | Hard | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](classes/abstract_classes_polymorphism.cpp) |
 
 ### STL ![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/7-1abc9c.svg)
 
