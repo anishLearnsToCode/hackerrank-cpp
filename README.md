@@ -3,7 +3,7 @@
 ![made-with-cpp](https://img.shields.io/badge/Made%20with-C++-1f425f.svg)
 ![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/44-1abc9c.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-[![cp](https://img.shields.io/badge/also%20see-competitve%20programming-1f72ff.svg)](https://github.com/anishLearnsToCode/hackerrank-java)
+[![cp](https://img.shields.io/badge/also%20see-competitve%20programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 
 HackerRank is an online platform that offers programmers the ability to test their
 sills, practice and learn something new. The problem sets on HackerRank are divided in Domains 
@@ -75,22 +75,44 @@ The C++ Domain is further Divided into the following sub-domains.
 
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
-| []() | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]()
+| [Attribute Parser](https://www.hackerrank.com/challenges/attribute-parser) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]()
+| [StringStream](https://www.hackerrank.com/challenges/c-tutorial-stringstream) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]()
+| [Strings](https://www.hackerrank.com/challenges/c-tutorial-strings) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]()
 
 ### Classes ![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/8-1abc9c.svg)
 
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
+| [Structs](https://www.hackerrank.com/challenges/c-tutorial-struct) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
+| [Class](https://www.hackerrank.com/challenges/c-tutorial-class) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
+| [Classes and Objects](https://www.hackerrank.com/challenges/classes-objects) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
+| [Box It!](https://www.hackerrank.com/challenges/box-it) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
+| [Inherited Code](https://www.hackerrank.com/challenges/inherited-code) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
+| [Exceptional Server](https://www.hackerrank.com/challenges/exceptional-server) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
+| [Virtual Functions](https://www.hackerrank.com/challenges/virtual-functions) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
+| [Abstract Classes - Polymorphism](https://www.hackerrank.com/challenges/abstract-classes-polymorphism) | Hard | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
 
 ### STL ![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/7-1abc9c.svg)
 
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
+| [Vector-Sort](https://www.hackerrank.com/challenges/vector-sort) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
+| [Vector-Erase](https://www.hackerrank.com/challenges/vector-erase) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
+| [Lower Bound-STL](https://www.hackerrank.com/challenges/cpp-lower-bound) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
+| [Sets-STL](https://www.hackerrank.com/challenges/cpp-sets) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
+| [Maps-STL](https://www.hackerrank.com/challenges/cpp-maps) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
+| [Print Pretty](https://www.hackerrank.com/challenges/prettyprint) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
+| [Deque-STL](https://www.hackerrank.com/challenges/deque-stl) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
 
 ### Inheritance ![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/5-1abc9c.svg)
 
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
+| []() | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() | 
+| []() | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() | 
+| []() | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() | 
+| []() | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() | 
+| []() | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() | 
 
 ### Debugging ![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/4-1abc9c.svg)
 
