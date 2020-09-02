@@ -59,13 +59,23 @@ The C++ Domain is further Divided into the following sub-domains.
 ### Introduction ![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/9-1abc9c.svg)
 
 | Problem | Difficulty | Solution |
-|---------|------------|----------|
+|---------|:----------:|:--------:|
+| [Say "Hello World" with C++](https://www.hackerrank.com/challenges/cpp-hello-world) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
+| [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
+| [Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
+| [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
+| [For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
+| [Functions](https://www.hackerrank.com/challenges/c-tutorial-functions) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
+| [Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
+| [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
+| [Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
 
 
 ### Strings ![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/3-1abc9c.svg)
 
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
+| []() | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]()
 
 ### Classes ![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/8-1abc9c.svg)
 
