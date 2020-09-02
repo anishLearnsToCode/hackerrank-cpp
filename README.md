@@ -1,7 +1,7 @@
 # Hackerrank C++
 
 ![made-with-cpp](https://img.shields.io/badge/Made%20with-C++-1f425f.svg)
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/44-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-9/44-1abc9c.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 [![cp](https://img.shields.io/badge/also%20see-competitve%20programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 
@@ -12,7 +12,7 @@ The C++ Domain is further Divided into the following sub-domains.
 
 ## Sub Domains & Problems (+Solutions) in the C++ Domain
 
-### Introduction ![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/9-1abc9c.svg)
+### Introduction ![problems-solved](https://img.shields.io/badge/Problems%20Solved-9/9-1abc9c.svg)
 
 | Problem | Difficulty | Solution |
 |---------|:----------:|:--------:|
