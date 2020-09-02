@@ -65,7 +65,7 @@ The C++ Domain is further Divided into the following sub-domains.
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
 | [Inheritance Introduction](https://www.hackerrank.com/challenges/inheritance-introduction) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](inheritance/inheritance_introduction.cpp) | 
-| [Rectangle Area](https://www.hackerrank.com/challenges/rectangle-area) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](inheritance) | 
+| [Rectangle Area](https://www.hackerrank.com/challenges/rectangle-area) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](inheritance/rectangle_area.cpp) | 
 | [Multi Level Inheritance](https://www.hackerrank.com/challenges/multi-level-inheritance-cpp) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](inheritance) | 
 | [Accessing Inherited Functions](https://www.hackerrank.com/challenges/accessing-inherited-functions) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](inheritance) | 
 | [Magic Spells](https://www.hackerrank.com/challenges/magic-spells) | Hard | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](inheritance) | 
