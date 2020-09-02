@@ -1,7 +1,7 @@
 # Hackerrank C++
 
 ![made-with-cpp](https://img.shields.io/badge/Made%20with-C++-1f425f.svg)
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-12/44-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-20/44-1abc9c.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 [![cp](https://img.shields.io/badge/also%20see-competitve%20programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 
@@ -35,7 +35,7 @@ The C++ Domain is further Divided into the following sub-domains.
 | [StringStream](https://www.hackerrank.com/challenges/c-tutorial-stringstream) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](strings/string_stream.cpp)
 | [Strings](https://www.hackerrank.com/challenges/c-tutorial-strings) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](strings/strings.cpp)
 
-### Classes ![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/8-1abc9c.svg)
+### Classes ![problems-solved](https://img.shields.io/badge/Problems%20Solved-8/8-1abc9c.svg)
 
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
@@ -52,13 +52,13 @@ The C++ Domain is further Divided into the following sub-domains.
 
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
-| [Vector-Sort](https://www.hackerrank.com/challenges/vector-sort) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
-| [Vector-Erase](https://www.hackerrank.com/challenges/vector-erase) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
-| [Lower Bound-STL](https://www.hackerrank.com/challenges/cpp-lower-bound) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
-| [Sets-STL](https://www.hackerrank.com/challenges/cpp-sets) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
-| [Maps-STL](https://www.hackerrank.com/challenges/cpp-maps) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
-| [Print Pretty](https://www.hackerrank.com/challenges/prettyprint) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
-| [Deque-STL](https://www.hackerrank.com/challenges/deque-stl) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
+| [Vector-Sort](https://www.hackerrank.com/challenges/vector-sort) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](stl/vector_sort.cpp) |
+| [Vector-Erase](https://www.hackerrank.com/challenges/vector-erase) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](stl/) |
+| [Lower Bound-STL](https://www.hackerrank.com/challenges/cpp-lower-bound) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](stl/) |
+| [Sets-STL](https://www.hackerrank.com/challenges/cpp-sets) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](stl/) |
+| [Maps-STL](https://www.hackerrank.com/challenges/cpp-maps) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](stl/) |
+| [Print Pretty](https://www.hackerrank.com/challenges/prettyprint) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](stl/) |
+| [Deque-STL](https://www.hackerrank.com/challenges/deque-stl) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](stl/) |
 
 ### Inheritance ![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/5-1abc9c.svg)
 
