@@ -56,8 +56,8 @@ The C++ Domain is further Divided into the following sub-domains.
 | [Vector-Erase](https://www.hackerrank.com/challenges/vector-erase) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](stl/vector_erase.cpp) |
 | [Lower Bound-STL](https://www.hackerrank.com/challenges/cpp-lower-bound) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](stl/lower_bound_stl.cpp) |
 | [Sets-STL](https://www.hackerrank.com/challenges/cpp-sets) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](stl/set_stl.cpp) |
-| [Maps-STL](https://www.hackerrank.com/challenges/cpp-maps) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](stl/) |
-| [Print Pretty](https://www.hackerrank.com/challenges/prettyprint) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](stl/) |
+| [Maps-STL](https://www.hackerrank.com/challenges/cpp-maps) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](stl/maps_stl.cpp) |
+| [Print Pretty](https://www.hackerrank.com/challenges/prettyprint) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](stl/print_pretty.cpp) |
 | [Deque-STL](https://www.hackerrank.com/challenges/deque-stl) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](stl/) |
 
 ### Inheritance ![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/5-1abc9c.svg)
