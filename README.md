@@ -60,15 +60,15 @@ The C++ Domain is further Divided into the following sub-domains.
 | [Print Pretty](https://www.hackerrank.com/challenges/prettyprint) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](stl/print_pretty.cpp) |
 | [Deque-STL](https://www.hackerrank.com/challenges/deque-stl) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](stl/dequeue_stl.cpp) |
 
-### Inheritance ![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/5-1abc9c.svg)
+### Inheritance ![problems-solved](https://img.shields.io/badge/Problems%20Solved-5/5-1abc9c.svg)
 
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
-| [Inheritance Introduction](https://www.hackerrank.com/challenges/inheritance-introduction) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() | 
-| [Rectangle Area](https://www.hackerrank.com/challenges/rectangle-area) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() | 
-| [Multi Level Inheritance](https://www.hackerrank.com/challenges/multi-level-inheritance-cpp) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() | 
-| [Accessing Inherited Functions](https://www.hackerrank.com/challenges/accessing-inherited-functions) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() | 
-| [Magic Spells](https://www.hackerrank.com/challenges/magic-spells) | Hard | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() | 
+| [Inheritance Introduction](https://www.hackerrank.com/challenges/inheritance-introduction) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](inheritance/inheritance_introduction.cpp) | 
+| [Rectangle Area](https://www.hackerrank.com/challenges/rectangle-area) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](inheritance) | 
+| [Multi Level Inheritance](https://www.hackerrank.com/challenges/multi-level-inheritance-cpp) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](inheritance) | 
+| [Accessing Inherited Functions](https://www.hackerrank.com/challenges/accessing-inherited-functions) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](inheritance) | 
+| [Magic Spells](https://www.hackerrank.com/challenges/magic-spells) | Hard | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](inheritance) | 
 
 ### Debugging ![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/4-1abc9c.svg)
 
