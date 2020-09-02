@@ -24,7 +24,7 @@ The C++ Domain is further Divided into the following sub-domains.
 | [Functions](https://www.hackerrank.com/challenges/c-tutorial-functions) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](introduction/functions.cpp) |
 | [Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](introduction/pointer.cpp) |
 | [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](introduction/arrays_introduction.cpp) |
-| [Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](introduction/) |
+| [Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](introduction/variable_size_arrays.cpp) |
 
 
 ### Strings ![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/3-1abc9c.svg)
