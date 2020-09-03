@@ -83,7 +83,7 @@ The C++ Domain is further Divided into the following sub-domains.
 
 | Problem | Difficulty | Solution |
 |---------|:----------:|:--------:|
-| [C++ Class Templates](https://www.hackerrank.com/challenges/c-class-templates) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
+| [C++ Class Templates](https://www.hackerrank.com/challenges/c-class-templates) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](other-concepts/cpp-class-templates.cpp) |
 | [Preprocessor Solution](https://www.hackerrank.com/challenges/preprocessor-solution) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
 | [Operator Overloading](https://www.hackerrank.com/challenges/operator-overloading) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
 | [Overload Operators](https://www.hackerrank.com/challenges/overload-operators) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
