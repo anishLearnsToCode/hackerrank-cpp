@@ -74,10 +74,10 @@ The C++ Domain is further Divided into the following sub-domains.
 
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
-| [Hotel Prices](https://www.hackerrank.com/challenges/hotel-prices) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]()
-| [Cpp Exception handling](https://www.hackerrank.com/challenges/cpp-exception-handling) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]()
-| [Overloading Ostream Operator](https://www.hackerrank.com/challenges/overloading-ostream-operator) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]()
-| [Messages Order](https://www.hackerrank.com/challenges/messages-order) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]()
+| [Hotel Prices](https://www.hackerrank.com/challenges/hotel-prices) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](debugging/hotel_prices.cpp)
+| [Cpp Exception handling](https://www.hackerrank.com/challenges/cpp-exception-handling) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](debugging/)
+| [Overloading Ostream Operator](https://www.hackerrank.com/challenges/overloading-ostream-operator) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](debugging/)
+| [Messages Order](https://www.hackerrank.com/challenges/messages-order) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](debugging/)
 
 ### Other Concepts ![problems-solved](https://img.shields.io/badge/Problems%20Solved-8/8-1abc9c.svg)
 
