@@ -30,7 +30,7 @@ The C++ Domain is further Divided into the following sub-domains.
 ### Strings ![problems-solved](https://img.shields.io/badge/Problems%20Solved-3/3-1abc9c.svg)
 
 | Problem | Difficulty | Solution |
-|---------|------------|----------|
+|---------|:----------:|:--------:|
 | [Attribute Parser](https://www.hackerrank.com/challenges/attribute-parser) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](strings/attribute_parser.cpp)
 | [StringStream](https://www.hackerrank.com/challenges/c-tutorial-stringstream) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](strings/string_stream.cpp)
 | [Strings](https://www.hackerrank.com/challenges/c-tutorial-strings) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](strings/strings.cpp)
@@ -38,7 +38,7 @@ The C++ Domain is further Divided into the following sub-domains.
 ### Classes ![problems-solved](https://img.shields.io/badge/Problems%20Solved-8/8-1abc9c.svg)
 
 | Problem | Difficulty | Solution |
-|---------|------------|----------|
+|---------|:----------:|:--------:|
 | [Structs](https://www.hackerrank.com/challenges/c-tutorial-struct) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](classes/structs.cpp) |
 | [Class](https://www.hackerrank.com/challenges/c-tutorial-class) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](classes/class.cpp) |
 | [Classes and Objects](https://www.hackerrank.com/challenges/classes-objects) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](classes/classes_and_objects.cpp) |
@@ -51,7 +51,7 @@ The C++ Domain is further Divided into the following sub-domains.
 ### STL ![problems-solved](https://img.shields.io/badge/Problems%20Solved-7/7-1abc9c.svg)
 
 | Problem | Difficulty | Solution |
-|---------|------------|----------|
+|---------|:----------:|:--------:|
 | [Vector-Sort](https://www.hackerrank.com/challenges/vector-sort) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](stl/vector_sort.cpp) |
 | [Vector-Erase](https://www.hackerrank.com/challenges/vector-erase) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](stl/vector_erase.cpp) |
 | [Lower Bound-STL](https://www.hackerrank.com/challenges/cpp-lower-bound) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](stl/lower_bound_stl.cpp) |
@@ -63,7 +63,7 @@ The C++ Domain is further Divided into the following sub-domains.
 ### Inheritance ![problems-solved](https://img.shields.io/badge/Problems%20Solved-5/5-1abc9c.svg)
 
 | Problem | Difficulty | Solution |
-|---------|------------|----------|
+|---------|:----------:|:--------:|
 | [Inheritance Introduction](https://www.hackerrank.com/challenges/inheritance-introduction) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](inheritance/inheritance_introduction.cpp) | 
 | [Rectangle Area](https://www.hackerrank.com/challenges/rectangle-area) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](inheritance/rectangle_area.cpp) | 
 | [Multi Level Inheritance](https://www.hackerrank.com/challenges/multi-level-inheritance-cpp) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](inheritance/multi_level_inheritance.cpp) | 
@@ -73,16 +73,16 @@ The C++ Domain is further Divided into the following sub-domains.
 ### Debugging ![problems-solved](https://img.shields.io/badge/Problems%20Solved-4/4-1abc9c.svg)
 
 | Problem | Difficulty | Solution |
-|---------|------------|----------|
+|---------|:----------:|:--------:|
 | [Hotel Prices](https://www.hackerrank.com/challenges/hotel-prices) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](debugging/hotel_prices.cpp)
-| [Cpp Exception handling](https://www.hackerrank.com/challenges/cpp-exception-handling) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](debugging/)
+| [Cpp Exception handling](https://www.hackerrank.com/challenges/cpp-exception-handling) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](debugging/cpp-exception-handling.cpp)
 | [Overloading Ostream Operator](https://www.hackerrank.com/challenges/overloading-ostream-operator) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](debugging/)
 | [Messages Order](https://www.hackerrank.com/challenges/messages-order) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](debugging/)
 
 ### Other Concepts ![problems-solved](https://img.shields.io/badge/Problems%20Solved-8/8-1abc9c.svg)
 
 | Problem | Difficulty | Solution |
-|---------|------------|----------|
+|---------|:----------:|:--------:|
 | [C++ Class Templates](https://www.hackerrank.com/challenges/c-class-templates) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
 | [Preprocessor Solution](https://www.hackerrank.com/challenges/preprocessor-solution) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
 | [Operator Overloading](https://www.hackerrank.com/challenges/operator-overloading) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]() |
