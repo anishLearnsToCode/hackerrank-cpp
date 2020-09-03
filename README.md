@@ -86,7 +86,7 @@ The C++ Domain is further Divided into the following sub-domains.
 | [C++ Class Templates](https://www.hackerrank.com/challenges/c-class-templates) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](other-concepts/cpp-class-templates.cpp) |
 | [Preprocessor Solution](https://www.hackerrank.com/challenges/preprocessor-solution) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](other-concepts/preprocessor-solution.cpp) |
 | [Operator Overloading](https://www.hackerrank.com/challenges/operator-overloading) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](other-concepts/operator-overloading.cpp) |
-| [Overload Operators](https://www.hackerrank.com/challenges/overload-operators) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](other-concepts) |
+| [Overload Operators](https://www.hackerrank.com/challenges/overload-operators) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](other-concepts/overload-operators.cpp) |
 | [Attending Workshops](https://www.hackerrank.com/challenges/attending-workshops) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](other-concepts) |
 | [C++ Class Template Specialization](https://www.hackerrank.com/challenges/cpp-class-template-specialization) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](other-concepts) |
 | [C++ Variadics]() | Hard | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](other-concepts) |
