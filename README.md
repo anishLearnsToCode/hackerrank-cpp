@@ -1,7 +1,7 @@
 # Hackerrank C++
 
 ![made-with-cpp](https://img.shields.io/badge/Made%20with-C++-1f425f.svg)
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-27/44-1abc9c.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-44/44-1abc9c.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 [![cp](https://img.shields.io/badge/also%20see-competitve%20programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 
@@ -68,9 +68,9 @@ The C++ Domain is further Divided into the following sub-domains.
 | [Rectangle Area](https://www.hackerrank.com/challenges/rectangle-area) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](inheritance/rectangle_area.cpp) | 
 | [Multi Level Inheritance](https://www.hackerrank.com/challenges/multi-level-inheritance-cpp) | Easy | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](inheritance/multi_level_inheritance.cpp) | 
 | [Accessing Inherited Functions](https://www.hackerrank.com/challenges/accessing-inherited-functions) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](inheritance/accessing_inherited_functions.cpp) | 
-| [Magic Spells](https://www.hackerrank.com/challenges/magic-spells) | Hard | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](inheritance) | 
+| [Magic Spells](https://www.hackerrank.com/challenges/magic-spells) | Hard | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](inheritance/magic_spell.cpp) | 
 
-### Debugging ![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/4-1abc9c.svg)
+### Debugging ![problems-solved](https://img.shields.io/badge/Problems%20Solved-4/4-1abc9c.svg)
 
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
@@ -79,7 +79,7 @@ The C++ Domain is further Divided into the following sub-domains.
 | [Overloading Ostream Operator](https://www.hackerrank.com/challenges/overloading-ostream-operator) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]()
 | [Messages Order](https://www.hackerrank.com/challenges/messages-order) | Medium | [![cpp](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)]()
 
-### Other Concepts ![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/8-1abc9c.svg)
+### Other Concepts ![problems-solved](https://img.shields.io/badge/Problems%20Solved-8/8-1abc9c.svg)
 
 | Problem | Difficulty | Solution |
 |---------|------------|----------|
