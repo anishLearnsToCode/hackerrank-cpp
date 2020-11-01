@@ -1,9 +1,8 @@
 # Hackerrank C++
 
-![made-with-cpp](https://img.shields.io/badge/Made%20with-C++-1f425f.svg)
 ![problems-solved](https://img.shields.io/badge/Problems%20Solved-44/44-1abc9c.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-[![cp](https://img.shields.io/badge/also%20see-competitve%20programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
+[![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 
 This repository contains solutions to the [C++ domain](https://www.hackerrank.com/domains/cpp) 
 part of HackerRank. My HackerRank profile can be viewed [here](https://www.hackerrank.com/anishviewer).
